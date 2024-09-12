@@ -46,7 +46,8 @@
         "TOKEN": {
             "INJ": "0xcb7e2cb6c8c1138909b5bfec13b92ebde7117c82b395df46e3fe0e3a35d84d14",
             "MFUD": "0x7ad87901531693f1baa541712947860dcc543617e11b14993ad70d20daf159c6",
-            "SEI": "0xf1ed3e5474476c7378039d44c7a088e0196129d3a183b3251fff2bb34fc2bcad"
+            "SEI": "0xf1ed3e5474476c7378039d44c7a088e0196129d3a183b3251fff2bb34fc2bcad",
+            "MBLUB": "0x7c36d8c1b2b569676d9a3f4c73487ec49b483111cc0abf4b0d5654e026ac3d3a"
         },
         "TYPUS": {
             "AIRDROP": "0xfb2fbf261f6050d100bcd026ffa0076e088506b1bec26313947239303e2a0224",
