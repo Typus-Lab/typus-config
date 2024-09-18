@@ -1,5 +1,5 @@
 {
-    "RPC_ENDPOINT": "https://sui-testnet.blastapi.io:443/7f446a12-c4ab-4e3c-b2d8-ebb0fcbe5cdd",
+    "RPC_ENDPOINT": "https://fullnode.testnet.sui.io:443",
     "PACKAGE_ORIGIN": {
         "DOV_SINGLE": "0x6c9a394a43844fc09d9617bc8a8e775a4521f0e28e83de1da780d043a498671f",
         "DICE": "0x9b43ee208a3b235810c145bca1161d1a71d08bfe76b1e55bb3db319ea95d0149",
