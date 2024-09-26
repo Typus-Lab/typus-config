@@ -45,7 +45,7 @@
         },
         "TOKEN": {
             "MFUD": "0xb8d7e7ab783e56700c0212bd9f0938bba9dd3e7241c149e6c52b21334ec45ece",
-            "MBLUB": "0x7c36d8c1b2b569676d9a3f4c73487ec49b483111cc0abf4b0d5654e026ac3d3a"
+            "MBLUB": "0x37c31cfd324a8fdafc6dff5a083822c65b360c9dc04e2b6c4453f051754c7c3a"
         },
         "TYPUS": {
             "AIRDROP": "0x4b451f4632bd64af82d5e6fe46e20705c9468bd46d6758a0f7093fde2930d084",
@@ -80,7 +80,8 @@
         "TURBOS": "0x819ff07b5768d7b9b428b69b123140f6a74b04eaa978a4cbab9055025bd1536d",
         "USDY": "",
         "BTC": "0x61813dc2e46dba41b14507857827f0ed7e99b0be242548828769728b81c8fab5",
-        "ETH": "0x253bbaaa35275240cf6df03258489707ea059762831e4102ebaabafd442bc935"
+        "ETH": "0x253bbaaa35275240cf6df03258489707ea059762831e4102ebaabafd442bc935",
+        "MBLUB": "0x9dd8169f78d5ebfa45cab2fc3c868339b7c01d67690488e930f65d27284d9b90"
     },
     "TOKEN": {
         "AFSUI": "0xf325ce1300e8dac124071d3152c5c5ee6174914f8bc2161e88329cf579246efc::afsui::AFSUI",
@@ -108,6 +109,8 @@
         "USDT": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
         "USDY": "0x960b531667636f39e85867775f52f6b1f220a058c4de786905bdf761e06a56bb::usdy::USDY",
         "VSUI": "0x549e8b69270defbfafd4f94e17ec44cdbdd99820b33bda2278dea3b9a32d3f55::cert::CERT",
-        "AUSD": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD"
+        "AUSD": "0x2053d08c1e2bd02791056171aab0fd12bd7cd7efad2ab8f6b9c8902f14df2ff2::ausd::AUSD",
+        "BLUB": "0xfa7ac3951fdca92c5200d468d31a365eb03b2be9936fde615e69f0c1274ad3a0::BLUB::BLUB",
+        "MBLUB": "0x494e1772851793ed39e2aee9990740fe3fc4d50476572b6192adea9268e8b40c::mblub::MBLUB"
     }
 }
