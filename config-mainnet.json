@@ -102,7 +102,7 @@
         "SCA": "0x7016aae72cfc67f2fadf55769c0a7dd54291a583b63051a5ed71081cce836ac6::sca::SCA",
         "SEI": "0xcac46c81bbe1e516c65f4c3e5da81e7092cc2e70218deafb31f1c8d5fcc9dae3::sei::SEI",
         "SOL": "0xb7844e289a8410e50fb3ca48d69eb9cf29e27d223ef90353fe1bd8e27ff8f3f8::coin::COIN",
-        "SUI": "0x2::sui::SUI",
+        "SUI": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
         "TEXP": "0x37816d28c34cc0df82655ca97b3f066112a5f3c202cbb4aaa76c8af54e779750::tails_exp::TAILS_EXP",
         "TGLD": "0x4b0f4ee1a40ce37ec81c987cc4e76a665419e74b863319492fc7d26f708b835a::tgld::TGLD",
         "TLP": "",
