@@ -10,6 +10,11 @@
         "TYPUS": "0x4b0f4ee1a40ce37ec81c987cc4e76a665419e74b863319492fc7d26f708b835a",
         "PERP": "",
         "SAFU": "0xa7bedeaa28ff3defa50d012812618178727f530bc5a70af5d03fc6424a984cc7",
+        "LAUNCH": {
+            "AUCTION": "",
+            "OPTION_AIRDROP": "",
+            "FUNDING_VAULT": ""
+        },
         "LAUNCH_AUCTION": "",
         "LAUNCH_OPTION_AIRDROP": ""
     },
@@ -23,6 +28,11 @@
         "TYPUS": "0xdb88366825e11a3b4875892f3186ba74dff804a68f9f7f95b3faafab0796e113",
         "PERP": "",
         "SAFU": "0x911e7e738522c2c58f36d7059713c4d43a0d293078a54cffc598bb7c01dc6289",
+        "LAUNCH": {
+            "AUCTION": "",
+            "OPTION_AIRDROP": "",
+            "FUNDING_VAULT": ""
+        },
         "LAUNCH_AUCTION": "",
         "LAUNCH_OPTION_AIRDROP": ""
     },
@@ -30,6 +40,11 @@
         "TYPUS": "0xd2882b992e986250b3304b59530700bc3850939f9a77e9e9dfa9cf1656f84b3d",
         "PERP": "",
         "SAFU": "0x4e72e7bd5343abefc9a7706e1db7e921d4c5f6eeb35b4a7cf63e23cf19e6b473",
+        "LAUNCH": {
+            "AUCTION": "",
+            "OPTION_AIRDROP": "",
+            "FUNDING_VAULT": ""
+        },
         "LAUNCH_AUCTION": "",
         "LAUNCH_OPTION_AIRDROP": ""
     },
@@ -63,6 +78,9 @@
         },
         "SAFU": {
             "SAFU": "0xdc970d638d1489385e49ddb76889748011bac4616b95a51aa63633972b841706"
+        },
+        "LAUNCH": {
+            "FUNDING_VAULT": ""
         }
     },
     "OBJECT": {
@@ -71,7 +89,8 @@
         "TGLD_COIN_METADATA": "0x3a070c729606334a2be7c51ab28da9a1101b0de01452dd62c10cda0f7a5795d2",
         "TGLD_TOKEN_POLICY": "0xd9461bd329f1df24be9698131b6e2c2b9eaac7c9cf6d76689112f2e57be12009",
         "TLP_TREASURY_CAP": "",
-        "LAUNCH_AUCTION": ""
+        "LAUNCH_AUCTION": "",
+        "LAUNCH_SNAPSHOT": ""
     },
     "ORACLE": {
         "AFSUI": "",
