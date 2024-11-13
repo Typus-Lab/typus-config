@@ -14,12 +14,10 @@
             "AUCTION": "",
             "OPTION_AIRDROP": "",
             "FUNDING_VAULT": ""
-        },
-        "LAUNCH_AUCTION": "",
-        "LAUNCH_OPTION_AIRDROP": ""
+        }
     },
     "PACKAGE": {
-        "DOV_SINGLE": "0x01532b5f6e6aa86f1de3091d83db06f274f2177e8e4abaeea6ea39e8d412e4ad",
+        "DOV_SINGLE": "0x222b0e07ba49450d113134cf3759fea5b0b719e480c7cb3d49971c75601273bb",
         "DICE": "0xbbd1d9f1a3cd6079921323ef31b5f53ae957d149d1b36843631047874a36a1c1",
         "FRAMEWORK": "0xd166f9334bfe8b4d271684cbe4b6c96cc91dea28b38465abd843a9c536dc2d4d",
         "TOKEN": "0x79644999409f8f8f9f431db88bacb9cf444f44d81e5ee85027e440659c7e8851",
@@ -32,9 +30,7 @@
             "AUCTION": "",
             "OPTION_AIRDROP": "",
             "FUNDING_VAULT": ""
-        },
-        "LAUNCH_AUCTION": "",
-        "LAUNCH_OPTION_AIRDROP": ""
+        }
     },
     "VERSION": {
         "TYPUS": "0xd2882b992e986250b3304b59530700bc3850939f9a77e9e9dfa9cf1656f84b3d",
@@ -44,9 +40,7 @@
             "AUCTION": "",
             "OPTION_AIRDROP": "",
             "FUNDING_VAULT": ""
-        },
-        "LAUNCH_AUCTION": "",
-        "LAUNCH_OPTION_AIRDROP": ""
+        }
     },
     "REGISTRY": {
         "DICE": {
