@@ -13,7 +13,7 @@
         "LAUNCH": {
             "AUCTION": "",
             "OPTION_AIRDROP": "",
-            "FUNDING_VAULT": ""
+            "FUNDING_VAULT": "0x2c41c92170a2290e49acb54980e1a55fb0d3adddffbe06a1c856cdb9eed6d1f8"
         }
     },
     "PACKAGE": {
@@ -29,7 +29,7 @@
         "LAUNCH": {
             "AUCTION": "",
             "OPTION_AIRDROP": "",
-            "FUNDING_VAULT": ""
+            "FUNDING_VAULT": "0x2c41c92170a2290e49acb54980e1a55fb0d3adddffbe06a1c856cdb9eed6d1f8"
         }
     },
     "VERSION": {
@@ -39,7 +39,7 @@
         "LAUNCH": {
             "AUCTION": "",
             "OPTION_AIRDROP": "",
-            "FUNDING_VAULT": ""
+            "FUNDING_VAULT": "0xb01c0bc5300370852708588445c1bb4aa3144dd0390f52cb95c91fc24c7e4034"
         }
     },
     "REGISTRY": {
@@ -74,7 +74,7 @@
             "SAFU": "0xdc970d638d1489385e49ddb76889748011bac4616b95a51aa63633972b841706"
         },
         "LAUNCH": {
-            "FUNDING_VAULT": ""
+            "FUNDING_VAULT": "0x507a7395b252ae580051b07a8f1784249da91f457685b3618afdb82b24374f72"
         }
     },
     "OBJECT": {
