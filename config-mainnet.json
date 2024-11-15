@@ -13,7 +13,8 @@
         "LAUNCH": {
             "AUCTION": "",
             "OPTION_AIRDROP": "",
-            "FUNDING_VAULT": "0xd79e6037ac4871e39edd93046fe417a461938236307f1ff087b1d59219fa26d9"
+            "FUNDING_VAULT": "0xd79e6037ac4871e39edd93046fe417a461938236307f1ff087b1d59219fa26d9",
+            "VE_TYPUS": ""
         }
     },
     "PACKAGE": {
@@ -29,7 +30,8 @@
         "LAUNCH": {
             "AUCTION": "",
             "OPTION_AIRDROP": "",
-            "FUNDING_VAULT": "0x326092a59e0e45fc38079d4edb85c8be195a19124a9af1f0ed876744b4051005"
+            "FUNDING_VAULT": "0x326092a59e0e45fc38079d4edb85c8be195a19124a9af1f0ed876744b4051005",
+            "VE_TYPUS": ""
         }
     },
     "VERSION": {
@@ -39,7 +41,8 @@
         "LAUNCH": {
             "AUCTION": "",
             "OPTION_AIRDROP": "",
-            "FUNDING_VAULT": "0xd3b50bed24d2540851d8b2337b0894c0b193229b470231086239a8f2c7b2bcfa"
+            "FUNDING_VAULT": "0xd3b50bed24d2540851d8b2337b0894c0b193229b470231086239a8f2c7b2bcfa",
+            "VE_TYPUS": ""
         }
     },
     "REGISTRY": {
@@ -74,7 +77,8 @@
             "SAFU": "0xdc970d638d1489385e49ddb76889748011bac4616b95a51aa63633972b841706"
         },
         "LAUNCH": {
-            "FUNDING_VAULT": "0x06794627844570278ca266ef64daa6cb93d0ae23c1dc6ac7a19def85273f72c8"
+            "FUNDING_VAULT": "0x06794627844570278ca266ef64daa6cb93d0ae23c1dc6ac7a19def85273f72c8",
+            "VE_TYPUS": ""
         }
     },
     "OBJECT": {
