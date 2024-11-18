@@ -13,7 +13,7 @@
         "LAUNCH": {
             "AUCTION": "0x0b942a983b140803236424e695a57748d0e8817b3c3baa9ef71f6f228cb0ca4a",
             "OPTION_AIRDROP": "0x6040e3610abd78b787aae00c75b050912015d91fbee408581c58f639ca732235",
-            "FUNDING_VAULT": "0xd79e6037ac4871e39edd93046fe417a461938236307f1ff087b1d59219fa26d9",
+            "FUNDING_VAULT": "0x7dab89563066afa000ee154738aac2cc8e7d3e26cd0b470183db63630ee9f965",
             "VE_TYPUS": ""
         }
     },
@@ -30,7 +30,7 @@
         "LAUNCH": {
             "AUCTION": "0x0b942a983b140803236424e695a57748d0e8817b3c3baa9ef71f6f228cb0ca4a",
             "OPTION_AIRDROP": "0x6040e3610abd78b787aae00c75b050912015d91fbee408581c58f639ca732235",
-            "FUNDING_VAULT": "0x326092a59e0e45fc38079d4edb85c8be195a19124a9af1f0ed876744b4051005",
+            "FUNDING_VAULT": "0x7dab89563066afa000ee154738aac2cc8e7d3e26cd0b470183db63630ee9f965",
             "VE_TYPUS": ""
         }
     },
@@ -41,7 +41,7 @@
         "LAUNCH": {
             "AUCTION": "0x3d78d54e06ecbd5810bc44b675676370e0dfedc9c4b157999eb72604aff970d1",
             "OPTION_AIRDROP": "0x3676efdb37c5daad7ccef24338546e15e205cf378a8f90bfb2e379de53a9bd9c",
-            "FUNDING_VAULT": "0xd3b50bed24d2540851d8b2337b0894c0b193229b470231086239a8f2c7b2bcfa",
+            "FUNDING_VAULT": "0xe8f47da94a8337800c0183d7e4d04230f6d09300dd2e66c2185f02892928ddc8",
             "VE_TYPUS": ""
         }
     },
@@ -77,7 +77,7 @@
             "SAFU": "0xdc970d638d1489385e49ddb76889748011bac4616b95a51aa63633972b841706"
         },
         "LAUNCH": {
-            "FUNDING_VAULT": "0x06794627844570278ca266ef64daa6cb93d0ae23c1dc6ac7a19def85273f72c8",
+            "FUNDING_VAULT": "0x0a9e179485aa7573b186f35e403d5aeaa71516f6b3551608473ea1e3d00f460f",
             "VE_TYPUS": ""
         }
     },
