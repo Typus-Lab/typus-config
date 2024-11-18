@@ -11,8 +11,8 @@
         "PERP": "",
         "SAFU": "0xa7bedeaa28ff3defa50d012812618178727f530bc5a70af5d03fc6424a984cc7",
         "LAUNCH": {
-            "AUCTION": "0x0b942a983b140803236424e695a57748d0e8817b3c3baa9ef71f6f228cb0ca4a",
-            "OPTION_AIRDROP": "0x6040e3610abd78b787aae00c75b050912015d91fbee408581c58f639ca732235",
+            "AUCTION": "0x601a9f900ee01f6458809a881bef6115cc65762e2bd1fa022ea6bb6111862268",
+            "OPTION_AIRDROP": "0x23f43c4c84788a2acba2aba37610704197821b568e2c3f0a87fe024231bcd3d3",
             "FUNDING_VAULT": "0x7dab89563066afa000ee154738aac2cc8e7d3e26cd0b470183db63630ee9f965",
             "VE_TYPUS": ""
         }
@@ -28,8 +28,8 @@
         "PERP": "",
         "SAFU": "0x911e7e738522c2c58f36d7059713c4d43a0d293078a54cffc598bb7c01dc6289",
         "LAUNCH": {
-            "AUCTION": "0x0b942a983b140803236424e695a57748d0e8817b3c3baa9ef71f6f228cb0ca4a",
-            "OPTION_AIRDROP": "0x6040e3610abd78b787aae00c75b050912015d91fbee408581c58f639ca732235",
+            "AUCTION": "0x601a9f900ee01f6458809a881bef6115cc65762e2bd1fa022ea6bb6111862268",
+            "OPTION_AIRDROP": "0x23f43c4c84788a2acba2aba37610704197821b568e2c3f0a87fe024231bcd3d3",
             "FUNDING_VAULT": "0x7dab89563066afa000ee154738aac2cc8e7d3e26cd0b470183db63630ee9f965",
             "VE_TYPUS": ""
         }
@@ -39,8 +39,8 @@
         "PERP": "",
         "SAFU": "0x4e72e7bd5343abefc9a7706e1db7e921d4c5f6eeb35b4a7cf63e23cf19e6b473",
         "LAUNCH": {
-            "AUCTION": "0x3d78d54e06ecbd5810bc44b675676370e0dfedc9c4b157999eb72604aff970d1",
-            "OPTION_AIRDROP": "0x3676efdb37c5daad7ccef24338546e15e205cf378a8f90bfb2e379de53a9bd9c",
+            "AUCTION": "0xb4cbf40fbe91337ba7e3b6e5117af11751bc22cfa87704be3387e9afedb03e7a",
+            "OPTION_AIRDROP": "0xa4f360b9c3cb5e4fb7e5f56b55af3e15e9bf7e3fd9dc9fcdda8d747d21c18395",
             "FUNDING_VAULT": "0xe8f47da94a8337800c0183d7e4d04230f6d09300dd2e66c2185f02892928ddc8",
             "VE_TYPUS": ""
         }
@@ -88,7 +88,7 @@
         "TGLD_TOKEN_POLICY": "0xd9461bd329f1df24be9698131b6e2c2b9eaac7c9cf6d76689112f2e57be12009",
         "TLP_TREASURY_CAP": "",
         "LAUNCH_AUCTION": "",
-        "LAUNCH_SNAPSHOT": "0xb711a93a75b8da53e4a297b5045ef09ae543f850d83fddc254f51a9aa023fbd2"
+        "LAUNCH_SNAPSHOT": "0x93423917440fe9716f7a02656e4f01d854d126f41fc14f0094d3aa36fce4dc20"
     },
     "ORACLE": {
         "AFSUI": "",
@@ -144,6 +144,6 @@
         "MLIQ": "0x9614657c9d7e8799be4f49781ef1a9247b83ee178976df6c92d29b6026b9dadf::mliq::MLIQ",
         "HIPPO": "0x8993129d72e733985f7f1a00396cbd055bad6f817fee36576ce483c8bbb8b87b::sudeng::SUDENG",
         "DEEP": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
-        "TYPUS": "0xf2a72651127568ee87caf3d7a508c53c54051bcbd920e5a0979d76d9e49dc85e::typus::TYPUS"
+        "TYPUS": "0xf82dc05634970553615eef6112a1ac4fb7bf10272bf6cbe0f80ef44a6c489385::typus::TYPUS"
     }
 }
