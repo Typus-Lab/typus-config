@@ -87,6 +87,8 @@
         "TGLD_COIN_METADATA": "0x3a070c729606334a2be7c51ab28da9a1101b0de01452dd62c10cda0f7a5795d2",
         "TGLD_TOKEN_POLICY": "0xd9461bd329f1df24be9698131b6e2c2b9eaac7c9cf6d76689112f2e57be12009",
         "TLP_TREASURY_CAP": "",
+        "depositor_program": "0x9b145a4d3f5ddb4594201c7df97ea9e02ef2fd77dfff53fc9a45dfde7cfb3543",
+        "bidding_leaderboard": "0x8a40d11311beee02be5ade3fc7077aefba80e4b92a02823688596cf4d0d10895",
         "LAUNCH_AUCTION": "0xd2487400b3b280a6902f74110d27fc6b00fe622b22acc199af28dc0ff43968cf",
         "LAUNCH_SNAPSHOT": "0x93423917440fe9716f7a02656e4f01d854d126f41fc14f0094d3aa36fce4dc20"
     },
