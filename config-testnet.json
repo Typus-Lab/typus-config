@@ -14,7 +14,7 @@
             "AUCTION": "0xe8191642f5b0368cf88d46184119d8424578284b386e69bf11ae3dfe52903c33",
             "OPTION_AIRDROP": "0xac17f4be2e843a6906678fd780e08a6653fb4d72ac27ae1c740aa4af9515af72",
             "FUNDING_VAULT": "0xde0ebf2db315e84cb9910b831f1fac3c977502a1b468022e255d2e35467a58b8",
-            "VE_TYPUS": "0x6608a889a9121939df5b748cf155485dbcc9d620b9057e3a58e876eb00cfa32a"
+            "VE_TYPUS": "0x50ab5f474be39c742f0be6190d92f0da4713e451af34420e5b70fcef7d3a2d8c"
         }
     },
     "PACKAGE": {
@@ -31,7 +31,7 @@
             "AUCTION": "0x939748462d9a4b9d8c28fa4d3f8caf9e45d835802e517cbe5f94e7c8e0bb72dc",
             "OPTION_AIRDROP": "0xfc63717ab3d6e2695048e3414e056a6a57544db3d47203b441039b9156340e05",
             "FUNDING_VAULT": "0x287570064418fd4b3ca81767eb896b7b35e574216fb0091fc01f39b67f8b0d01",
-            "VE_TYPUS": "0xd75bf5257a5936e8a5ad312700a5a35fc7000560c96196f6a613bdfbbd086970"
+            "VE_TYPUS": "0x50ab5f474be39c742f0be6190d92f0da4713e451af34420e5b70fcef7d3a2d8c"
         }
     },
     "VERSION": {
@@ -76,7 +76,7 @@
         },
         "LAUNCH": {
             "FUNDING_VAULT": "0x9cea3157c5d9d024176d8a7dc6df61bc3af58d81ef3dd13021d9091ffd28e896",
-            "VE_TYPUS": "0x90c05ec889466701a2a15eb189be35e59085209ad8deec8e36ded4e6666af9a4"
+            "VE_TYPUS": "0x4c196b9833fac0eaf00aa8d0d209d7fdae927d26a0ffb64e065184648bd7c9d3"
         }
     },
     "OBJECT": {
