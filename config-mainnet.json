@@ -11,6 +11,8 @@
         "PERP": "",
         "SAFU": "0xa7bedeaa28ff3defa50d012812618178727f530bc5a70af5d03fc6424a984cc7",
         "LAUNCH": {
+            "AIRDROP": "",
+            "IMPROVEMENT_PROPOSAL": "",
             "AUCTION": "0x601a9f900ee01f6458809a881bef6115cc65762e2bd1fa022ea6bb6111862268",
             "OPTION_AIRDROP": "0x23f43c4c84788a2acba2aba37610704197821b568e2c3f0a87fe024231bcd3d3",
             "FUNDING_VAULT": "0x7dab89563066afa000ee154738aac2cc8e7d3e26cd0b470183db63630ee9f965",
@@ -28,6 +30,8 @@
         "PERP": "",
         "SAFU": "0xcca4b6c6649da47c677d16dc7f3e4539a43c86d3a0dd391b68403434a4200134",
         "LAUNCH": {
+            "AIRDROP": "",
+            "IMPROVEMENT_PROPOSAL": "",
             "AUCTION": "0x6efa88535c7778bed05db65ca7a7b5dee111c9d1c51c18711f3763089e41ddd9",
             "OPTION_AIRDROP": "0x23f43c4c84788a2acba2aba37610704197821b568e2c3f0a87fe024231bcd3d3",
             "FUNDING_VAULT": "0x8508fa6d4c0687fbf9e45ad6eefe70c552100a3c5874acf9e0a4b64c99e58d62",
@@ -39,6 +43,8 @@
         "PERP": "",
         "SAFU": "0x4e72e7bd5343abefc9a7706e1db7e921d4c5f6eeb35b4a7cf63e23cf19e6b473",
         "LAUNCH": {
+            "AIRDROP": "",
+            "IMPROVEMENT_PROPOSAL": "",
             "AUCTION": "0xb4cbf40fbe91337ba7e3b6e5117af11751bc22cfa87704be3387e9afedb03e7a",
             "OPTION_AIRDROP": "0xa4f360b9c3cb5e4fb7e5f56b55af3e15e9bf7e3fd9dc9fcdda8d747d21c18395",
             "FUNDING_VAULT": "0xe8f47da94a8337800c0183d7e4d04230f6d09300dd2e66c2185f02892928ddc8",
@@ -77,6 +83,8 @@
             "SAFU": "0xdc970d638d1489385e49ddb76889748011bac4616b95a51aa63633972b841706"
         },
         "LAUNCH": {
+            "AIRDROP": "",
+            "IMPROVEMENT_PROPOSAL": "",
             "FUNDING_VAULT": "0x0a9e179485aa7573b186f35e403d5aeaa71516f6b3551608473ea1e3d00f460f",
             "VE_TYPUS": ""
         }

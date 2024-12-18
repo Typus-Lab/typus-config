@@ -11,6 +11,8 @@
         "PERP": "0x4bcf9eade4480bcb9fcd3139ec8d22afda34b25af06092904fcccb06e1b8043c",
         "SAFU": "",
         "LAUNCH": {
+            "AIRDROP": "",
+            "IMPROVEMENT_PROPOSAL": "0x01c82ff8e42b31475f17602002b877b0cdb2f1dfb7f8c62d1440c18e38d2454b",
             "AUCTION": "0xe8191642f5b0368cf88d46184119d8424578284b386e69bf11ae3dfe52903c33",
             "OPTION_AIRDROP": "0xac17f4be2e843a6906678fd780e08a6653fb4d72ac27ae1c740aa4af9515af72",
             "FUNDING_VAULT": "0xde0ebf2db315e84cb9910b831f1fac3c977502a1b468022e255d2e35467a58b8",
@@ -28,6 +30,8 @@
         "PERP": "0x5ff329ee25f3936b7f3e191de702cc0dd8beca7e1ac833f7d73ea653d47ef4ad",
         "SAFU": "",
         "LAUNCH": {
+            "AIRDROP": "",
+            "IMPROVEMENT_PROPOSAL": "0x41f2fa15c581a783d1a15d13a56eb2f3045688b56fb6162ee7db1b6f3f959983",
             "AUCTION": "0x939748462d9a4b9d8c28fa4d3f8caf9e45d835802e517cbe5f94e7c8e0bb72dc",
             "OPTION_AIRDROP": "0xfc63717ab3d6e2695048e3414e056a6a57544db3d47203b441039b9156340e05",
             "FUNDING_VAULT": "0x287570064418fd4b3ca81767eb896b7b35e574216fb0091fc01f39b67f8b0d01",
@@ -39,6 +43,8 @@
         "PERP": "0x3aafe933e23a9e10f3a34febf6a2996961989558315bae46458fd234496e8a97",
         "SAFU": "",
         "LAUNCH": {
+            "AIRDROP": "",
+            "IMPROVEMENT_PROPOSAL": "0x158479a53de7079aedc507236baeb751b7808af8fc666d32a74b42e3a2505b7f",
             "AUCTION": "0x026bf3684e0325c40622016196e951da1ca2a17c0a3e50ee1638fe54d1b7d02e",
             "OPTION_AIRDROP": "0x5e1a3c351ac0a15af2b9ab1a40b260bcb6025608e4dd335e1ddd0fccf595725f",
             "FUNDING_VAULT": "0x83550fec67bab2251aca20f9f2fe96182e862a29b5219dfc8a4c0a796b370705",
@@ -75,6 +81,8 @@
             "TGLD": "0x2118b4056c89d90a6dc40d198fbe239cb8e83f7ea20daaf4ea53341c7fdb043c"
         },
         "LAUNCH": {
+            "AIRDROP": "",
+            "IMPROVEMENT_PROPOSAL": "0x57e795228bdcf799eba408ac883083432841b545b4e048955962c2dcd4dc4a13",
             "FUNDING_VAULT": "0x9cea3157c5d9d024176d8a7dc6df61bc3af58d81ef3dd13021d9091ffd28e896",
             "VE_TYPUS": "0x4c196b9833fac0eaf00aa8d0d209d7fdae927d26a0ffb64e065184648bd7c9d3"
         }
