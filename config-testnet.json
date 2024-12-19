@@ -9,8 +9,8 @@
         "ORACLE": "0x1d17058789bd1e1e79f1a92424519a88146f191f58a06cc4d9ab23d17d46ab73",
         "TYPUS": "0x4213e12a2220f15f1837a76897110d2260786558169bd8d0847f21e9b551f277",
         "PERP": {
-            "PERP": "0x68b590a418f3779994f6bc3de49df4e0ef0b0f77499c2ecb6a8950264d250371",
-            "STAKE_POOL": "0xe4b92f096c1b6fdcd41e576ed7716ff5c3985aa45b9ef17191de0b3ca2746a35"
+            "PERP": "0x4badc51caf7c223fe754e76f740a95522f02ef167db98f3fbbf1f3d8dfffaceb",
+            "STAKE_POOL": "0xbda4449124bfac6db9983411814d422daefd0c2bf02d4e7053db030f68448eaf"
         },
         "SAFU": "",
         "LAUNCH": {
@@ -31,8 +31,8 @@
         "ORACLE": "0x16941d5f83c3382adc88026c3207d7c4bd8a11a680bf52eff62532b0bae54845",
         "TYPUS": "0x3896abb0c9c46aca621fe0d03ae5a4ac83c734a79a8a37cf0f5c97bb6762d9a8",
         "PERP": {
-            "PERP": "0x68b590a418f3779994f6bc3de49df4e0ef0b0f77499c2ecb6a8950264d250371",
-            "STAKE_POOL": "0xe4b92f096c1b6fdcd41e576ed7716ff5c3985aa45b9ef17191de0b3ca2746a35"
+            "PERP": "0x4badc51caf7c223fe754e76f740a95522f02ef167db98f3fbbf1f3d8dfffaceb",
+            "STAKE_POOL": "0xbda4449124bfac6db9983411814d422daefd0c2bf02d4e7053db030f68448eaf"
         },
         "SAFU": "",
         "LAUNCH": {
@@ -47,8 +47,8 @@
     "VERSION": {
         "TYPUS": "0x2edc980f55e31ba3c660f4e2650e915fd47fb33b524b01a52a116719adac8be7",
         "PERP": {
-            "PERP": "0x04e8169fa8f0014fec6b7e25196ff9054574b70e7bba00a7c4cc7f913092715a",
-            "STAKE_POOL": "0xd20319ef9f241028315e5c71ba8371d751d25547932491bb338f9b4e9be1d780"
+            "PERP": "0x429f072b1bc28777ad4e7ab068852e7db896398e4480ecaf4674c790eb84717a",
+            "STAKE_POOL": "0x21b36d68ca2a4a4bde98b96b227ed417477d4143e42266ce0ed33935da572c5c"
         },
         "SAFU": "",
         "LAUNCH": {
@@ -70,11 +70,11 @@
             "DOV_SINGLE": "0x0285cbf4aa8585be6c978235d11d06fa35773266ede040d38d34e1d79b049460"
         },
         "PERP": {
-            "LIQUIDITY_POOL": "0x6d74bf296b7da4d8d37c62e960213bd9024f88c563e3f7a9f1eff5a483472f89",
-            "LP_POOL": "0xb5a8a2633851c5e52263f0066c78d9e21b71cb6c41394347e0e3bb78c482d1a6",
-            "MARKET": "0xf0ed8a63a2026691c19dfc365e3554ac702d28d7ab9934378fcf7427be8da7fc",
-            "STAKE_POOL": "0xc423d4dd702675d0b7dca68e318d1cafbc4360cc80fef8136fc94e5ab2ddae0b",
-            "TLP": "0x94c2691f68b790654573599c8621167bf4726c187d144870bf408d33d22b8c2c"
+            "LIQUIDITY_POOL": "0x7a31a5063e8e49a75f928dad35be578001318e1d76d44502d6272900d1f2e77f",
+            "LP_POOL": "0x954ecf02a831783d57b609426e140c0150f32cd395d0cfcfb899555eb28a6b9e",
+            "MARKET": "0x2aefdf7cca8e2d2feec98759b39daf1b1f2c446a4342f427a2fcf19091916766",
+            "STAKE_POOL": "0x28c4463a9340ba3a4932b7435206f82883e2b6589a78366bc0dcc6f81cd47d1c",
+            "TLP": "0xa380a0c5253b93fddfbe38565c8c37f54687fac5934454286db90d554432745a"
         },
         "TOKEN": {
             "INJ": "0xcb7e2cb6c8c1138909b5bfec13b92ebde7117c82b395df46e3fe0e3a35d84d14",
@@ -101,7 +101,7 @@
         "TAILS_IDS": "0xf4ea1c4432823ebde3b0c1f0705a45b08571b48237db879502b8ba336ea5b916",
         "TGLD_COIN_METADATA": "0xf77f8aabe64dccef0e568f2ef58a6ca74bdfb31786507cc35b7626a4df0d0ebc",
         "TGLD_TOKEN_POLICY": "0x17875c2f772053cd148bd2b8b8a40160db3f841825d8963192f8394d5c18974c",
-        "TLP_TREASURY_CAP": "0x66a8fb0e62b5b26d5728b7e1bc5051dabfc69a9489e5c4a9451ff16687679006",
+        "TLP_TREASURY_CAP": "0x07350c8c8761778542a8e434716f846fc6c70fb5517d431746ec28ec1ed24d53",
         "depositor_program": "0x03346fdcc3091c814308bc78f090d06f96accf767ea5b5e54b9f16ab55c2a3b2",
         "bidding_leaderboard": "0xf6f49bc307f2dd0397cac453bf055365687924c4a5457af0e3287ef3b974c2aa",
         "LAUNCH_AUCTION": "0xe4f9e665c29820d0b2c32223603934f59946eef64760af4527bd93cdc57642ef",
@@ -140,7 +140,7 @@
         "SUI": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
         "TEXP": "0x9b43ee208a3b235810c145bca1161d1a71d08bfe76b1e55bb3db319ea95d0149::tails_exp::TAILS_EXP",
         "TGLD": "0x4213e12a2220f15f1837a76897110d2260786558169bd8d0847f21e9b551f277::tgld::TGLD",
-        "TLP": "0x4bcf9eade4480bcb9fcd3139ec8d22afda34b25af06092904fcccb06e1b8043c::tlp::TLP",
+        "TLP": "0x4badc51caf7c223fe754e76f740a95522f02ef167db98f3fbbf1f3d8dfffaceb::tlp::TLP",
         "TURBOS": "0xebc68999f399a5ba121f8e59c0940eaa0e074e30454403357b93b25af9f30117::turbos::TURBOS",
         "USD": "0x01a05edb0e5e670196de98fbbf544180d129dd4ec11c3c57f742badf0304650d::trading::USD",
         "USDC": "0xa1ec7fc00a6f40db9693ad1415d0c193ad3906494428cf252621037bd7117e29::usdc::USDC",
