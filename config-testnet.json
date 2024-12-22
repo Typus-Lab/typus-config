@@ -29,7 +29,7 @@
         "TOKEN": "0x7755ff79f0f27256c73e6c197e25b407ef6d4b9bd6e1af8cdd50fef28f84712c",
         "NFT": "0xd4edd48935700630738862ff67c30962461ad341a13bed78c12beb15297989b0",
         "ORACLE": "0x16941d5f83c3382adc88026c3207d7c4bd8a11a680bf52eff62532b0bae54845",
-        "TYPUS": "0x3896abb0c9c46aca621fe0d03ae5a4ac83c734a79a8a37cf0f5c97bb6762d9a8",
+        "TYPUS": "0x8c3b1f0720e9a7a618163a0f482d044e23d3c8ea0f19ced2be1e9610f0c7241d",
         "PERP": {
             "PERP": "0x4badc51caf7c223fe754e76f740a95522f02ef167db98f3fbbf1f3d8dfffaceb",
             "STAKE_POOL": "0xbda4449124bfac6db9983411814d422daefd0c2bf02d4e7053db030f68448eaf"
