@@ -31,7 +31,7 @@
         "ORACLE": "0x16941d5f83c3382adc88026c3207d7c4bd8a11a680bf52eff62532b0bae54845",
         "TYPUS": "0x8c3b1f0720e9a7a618163a0f482d044e23d3c8ea0f19ced2be1e9610f0c7241d",
         "PERP": {
-            "PERP": "0x04e536fe79e7f1ed23fed0a421629c95c820ce6d0a6fe15a7d9b457800f109bd",
+            "PERP": "0xc655fb726b6e1519984474985579c1d60f701aecf1fdb9238885637705e98207",
             "STAKE_POOL": "0x998a95d766ddeb2f901da579720b7b16e866ab36406f3013eddb5aa480875e33"
         },
         "SAFU": "",
