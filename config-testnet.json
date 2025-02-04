@@ -8,10 +8,6 @@
         "NFT": "0x5cfd0819411be98034cba544cbffab192c2c35674a05ff57f4f1c5042875b828",
         "ORACLE": "0x1d17058789bd1e1e79f1a92424519a88146f191f58a06cc4d9ab23d17d46ab73",
         "TYPUS": "0x4213e12a2220f15f1837a76897110d2260786558169bd8d0847f21e9b551f277",
-        "PERP": {
-            "PERP": "0xac3919fd321e4c397a5c17d0cc01ed150a5e0f7d8c0f2b728fde3f5d719a2f0e",
-            "STAKE_POOL": "0x998a95d766ddeb2f901da579720b7b16e866ab36406f3013eddb5aa480875e33"
-        },
         "SAFU": "",
         "LAUNCH": {
             "AIRDROP": "0xb9966c59fc465d12a268982fe37c8293b7232d040e2dce7795b503a1d0cb2b61",
@@ -30,10 +26,6 @@
         "NFT": "0xd4edd48935700630738862ff67c30962461ad341a13bed78c12beb15297989b0",
         "ORACLE": "0x16941d5f83c3382adc88026c3207d7c4bd8a11a680bf52eff62532b0bae54845",
         "TYPUS": "0x8c3b1f0720e9a7a618163a0f482d044e23d3c8ea0f19ced2be1e9610f0c7241d",
-        "PERP": {
-            "PERP": "0xc655fb726b6e1519984474985579c1d60f701aecf1fdb9238885637705e98207",
-            "STAKE_POOL": "0x998a95d766ddeb2f901da579720b7b16e866ab36406f3013eddb5aa480875e33"
-        },
         "SAFU": "",
         "LAUNCH": {
             "AIRDROP": "0xb9966c59fc465d12a268982fe37c8293b7232d040e2dce7795b503a1d0cb2b61",
@@ -47,8 +39,8 @@
     "VERSION": {
         "TYPUS": "0x2edc980f55e31ba3c660f4e2650e915fd47fb33b524b01a52a116719adac8be7",
         "PERP": {
-            "PERP": "0x89f47e85c5a6b3b70a296978af3655ed863363cd2f615b9e588445b5881f28b7",
-            "STAKE_POOL": "0x1fcd5b7331d8eeaea7af1d3d9b9f248b8b966857885ba40db81a1f1842dc719d"
+            "PERP": "0xa3066f440d0e2fa74b1c98e55c316ce63b208be87b018b089bf39d5dd11e8dfd",
+            "STAKE_POOL": "0x25868624d2254a14eb513ae2b276fb56ca355ffd6cdd8ee05c5a51620f3f1bf3"
         },
         "SAFU": "",
         "LAUNCH": {
@@ -70,11 +62,11 @@
             "DOV_SINGLE": "0x0285cbf4aa8585be6c978235d11d06fa35773266ede040d38d34e1d79b049460"
         },
         "PERP": {
-            "LIQUIDITY_POOL": "0x0ad420a5c9a27c2ed6aa2134ea2ca42b07a6b6061a802ce3a74488e1fc3d3f62",
-            "LP_POOL": "0xe84f3192b7102ca2c83a8abfaf754b972b31c4bfbcae9ee619ddf8ad49d83c84",
-            "MARKET": "0x3c713604924917aca4c154622e7fe78085babb5b2e1e0b4698e3a7f7fbd270a9",
-            "STAKE_POOL": "0xa0752a5e798cb107e3562e9cff0a463eb6f00a5ce84557247ff0a492c162af22",
-            "TLP": "0x1f39af73747d1a4aa790b4c3528f3e25500e1c2a48b539e3ce537c42027c22d2"
+            "LIQUIDITY_POOL": "0x93bc498e59e97c93820c14687a9a340bc794eada7f7ce0f458bb25190bdd395e",
+            "LP_POOL": "0x8c68a787b281fc4dec6c1a67f301f80c7601e05f7941516088f5ec08e3093baf",
+            "MARKET": "0xb73983f279effad13b455846c192a2eb402ed453f84a1e627c9e34cfd329bf92",
+            "STAKE_POOL": "0x27efed0157eea40aa1a8483622edeb48ca8c3fa3073f9e662503280a22a4e51b",
+            "TLP": "0x7c19f81d9d411e78305d7af8dad25317c56bb449fede8a78b6021232478f0509"
         },
         "TOKEN": {
             "INJ": "0xcb7e2cb6c8c1138909b5bfec13b92ebde7117c82b395df46e3fe0e3a35d84d14",
@@ -105,8 +97,7 @@
         "depositor_program": "0x03346fdcc3091c814308bc78f090d06f96accf767ea5b5e54b9f16ab55c2a3b2",
         "bidding_leaderboard": "0xf6f49bc307f2dd0397cac453bf055365687924c4a5457af0e3287ef3b974c2aa",
         "LAUNCH_AUCTION": "0xe4f9e665c29820d0b2c32223603934f59946eef64760af4527bd93cdc57642ef",
-        "LAUNCH_SNAPSHOT": "0xfe891837144c6f4505027e9c3c345b8a2758629e4a95ccc24187db08f304d896",
-        "perpMarketVid": "0x182ffe90d620be098992c83354b906a8ec591819428ad343e903fe59c243899f"
+        "LAUNCH_SNAPSHOT": "0xfe891837144c6f4505027e9c3c345b8a2758629e4a95ccc24187db08f304d896"
     },
     "ORACLE": {
         "AFSUI": "0xacd75f051b8be445226f92d873fbf9bbc26fe25cec5708b1aeec44286dbbef5b",
