@@ -108,7 +108,9 @@
         "depositor_program": "0x9b145a4d3f5ddb4594201c7df97ea9e02ef2fd77dfff53fc9a45dfde7cfb3543",
         "bidding_leaderboard": "0x8a40d11311beee02be5ade3fc7077aefba80e4b92a02823688596cf4d0d10895",
         "LAUNCH_AUCTION": "0xd2487400b3b280a6902f74110d27fc6b00fe622b22acc199af28dc0ff43968cf",
-        "LAUNCH_SNAPSHOT": "0x93423917440fe9716f7a02656e4f01d854d126f41fc14f0094d3aa36fce4dc20"
+        "LAUNCH_SNAPSHOT": "0x93423917440fe9716f7a02656e4f01d854d126f41fc14f0094d3aa36fce4dc20",
+        "trading_competition_last": "0x805f9effaac3990e31831d26ad629f565a45215ae04bbdce6d7c6627783a10bd",
+        "trading_competition_this": "0x571a9134c5fe68731a7955a63dfb453d287a130fa1d5beb8b6313a7df13faa04"
     },
     "ORACLE": {
         "AFSUI": "",
