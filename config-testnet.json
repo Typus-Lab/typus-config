@@ -80,7 +80,8 @@
             "LEADERBOARD": "0x4faabe5a4a509a145fc9bae95761d34c11571da4cb25d681f06ffcbadbc355e7",
             "TAILS_STAKING": "0x989bd585b580dfc22d9d7656a5807b2f6c8fe36260a2003ef697adc8a38d21af",
             "USER": "0x5f1894a3680949111a7530d63ceda6857d31521ab2de625e9f826cae17c9a7f3",
-            "TGLD": "0x2118b4056c89d90a6dc40d198fbe239cb8e83f7ea20daaf4ea53341c7fdb043c"
+            "TGLD": "0x2118b4056c89d90a6dc40d198fbe239cb8e83f7ea20daaf4ea53341c7fdb043c",
+            "REFERRAL": "0x87c9f742216a5102aeba6a02842653ec670e18465b238ba8f41ef33809bdb8cd"
         },
         "LAUNCH": {
             "AIRDROP": "0x1ae5f3e8bc3c831abfc0393893024b37d2a1f6d89245b213c8680ca494db5988",
