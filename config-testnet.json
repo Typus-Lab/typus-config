@@ -17,6 +17,11 @@
             "OPTION_AIRDROP": "0xac17f4be2e843a6906678fd780e08a6653fb4d72ac27ae1c740aa4af9515af72",
             "FUNDING_VAULT": "0xd80c622149ecec56d25b81f3696f172359fb068b305356abcc1ba1a63b7816d0",
             "VE_TYPUS": "0x50ab5f474be39c742f0be6190d92f0da4713e451af34420e5b70fcef7d3a2d8c"
+        },
+        "HEDGE": {
+            "HEDGE": "0x8609bc520f1050330d6792a688520756c34639aaa07f63f64370430d7cd0c806",
+            "HEDGE_PERP_DOV": "",
+            "HEDGE_MOMENTUM": ""
         }
     },
     "PACKAGE": {
@@ -26,7 +31,7 @@
         "TOKEN": "0x7755ff79f0f27256c73e6c197e25b407ef6d4b9bd6e1af8cdd50fef28f84712c",
         "NFT": "0xd4edd48935700630738862ff67c30962461ad341a13bed78c12beb15297989b0",
         "ORACLE": "0x9c81c2c9369f07ea8aea930ad25701f3d8af671ddb857980abbee03b607625c4",
-        "TYPUS": "0x5268e7a08f7e99576585d428054b06cab33028dce8e34b9ca97c166ea826487d",
+        "TYPUS": "0x35c77cbcbf0f2ddd36d7ce7f1ac9c37b23d575b4e91e6c2700609e5348eff22c",
         "SAFU": "",
         "LAUNCH": {
             "AIRDROP": "0xb9966c59fc465d12a268982fe37c8293b7232d040e2dce7795b503a1d0cb2b61",
@@ -35,6 +40,11 @@
             "OPTION_AIRDROP": "0xfc63717ab3d6e2695048e3414e056a6a57544db3d47203b441039b9156340e05",
             "FUNDING_VAULT": "0xd80c622149ecec56d25b81f3696f172359fb068b305356abcc1ba1a63b7816d0",
             "VE_TYPUS": "0x4c4b686e9c806e483d7eecbd0f7d7a420e57a7f1cc711cd503dc4e2d173e366f"
+        },
+        "HEDGE": {
+            "HEDGE": "0x8609bc520f1050330d6792a688520756c34639aaa07f63f64370430d7cd0c806",
+            "HEDGE_PERP_DOV": "",
+            "HEDGE_MOMENTUM": ""
         }
     },
     "VERSION": {
@@ -51,6 +61,11 @@
             "OPTION_AIRDROP": "0x5e1a3c351ac0a15af2b9ab1a40b260bcb6025608e4dd335e1ddd0fccf595725f",
             "FUNDING_VAULT": "0xeff07a130c23abb1768aaddc974320a79087555eb0831592ae3cdbc68909a52f",
             "VE_TYPUS": "0x5f4497850bfd9092d97fbe429173dc8bbc4daaad5d231086329fdcd334b25b88"
+        },
+        "HEDGE": {
+            "HEDGE": "0x059bc3b356553b2ddfc8347b376f2946dc7e046459fbae4cd448f675c71f6aae",
+            "HEDGE_PERP_DOV": "",
+            "HEDGE_MOMENTUM": ""
         }
     },
     "REGISTRY": {
@@ -88,6 +103,9 @@
             "IMPROVEMENT_PROPOSAL": "0xbbd5051ab2ef6a69854ac36988529f65e7d04cdda857e2158fc4dce7587535f3",
             "FUNDING_VAULT": "0x3d12a84193e4464e319b1734270219cc72408a4128f187984351d11b69629e64",
             "VE_TYPUS": "0x4c196b9833fac0eaf00aa8d0d209d7fdae927d26a0ffb64e065184648bd7c9d3"
+        },
+        "HEDGE": {
+            "HEDGE": "0x2c3428cd8f7f1742c7faf5f50fa8d0e3972656a4bc3f5df38376213a3f170c82"
         }
     },
     "OBJECT": {
