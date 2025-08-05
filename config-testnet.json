@@ -19,7 +19,7 @@
             "VE_TYPUS": "0x50ab5f474be39c742f0be6190d92f0da4713e451af34420e5b70fcef7d3a2d8c"
         },
         "HEDGE": {
-            "HEDGE": "0x8609bc520f1050330d6792a688520756c34639aaa07f63f64370430d7cd0c806",
+            "HEDGE": "0x50e5294c235ccdd12c2d29ddd31319bfce48216730ea94e54bcadfa3abb37fd9",
             "HEDGE_PERP_DOV": "",
             "HEDGE_MOMENTUM": ""
         }
@@ -42,7 +42,7 @@
             "VE_TYPUS": "0x4c4b686e9c806e483d7eecbd0f7d7a420e57a7f1cc711cd503dc4e2d173e366f"
         },
         "HEDGE": {
-            "HEDGE": "0x8609bc520f1050330d6792a688520756c34639aaa07f63f64370430d7cd0c806",
+            "HEDGE": "0x50e5294c235ccdd12c2d29ddd31319bfce48216730ea94e54bcadfa3abb37fd9",
             "HEDGE_PERP_DOV": "",
             "HEDGE_MOMENTUM": ""
         }
@@ -63,7 +63,7 @@
             "VE_TYPUS": "0x5f4497850bfd9092d97fbe429173dc8bbc4daaad5d231086329fdcd334b25b88"
         },
         "HEDGE": {
-            "HEDGE": "0x059bc3b356553b2ddfc8347b376f2946dc7e046459fbae4cd448f675c71f6aae",
+            "HEDGE": "0x67c0606f6cec6658545b5babe66bc499f6e2be62e3ef506b0049667661587ddd",
             "HEDGE_PERP_DOV": "",
             "HEDGE_MOMENTUM": ""
         }
@@ -105,7 +105,7 @@
             "VE_TYPUS": "0x4c196b9833fac0eaf00aa8d0d209d7fdae927d26a0ffb64e065184648bd7c9d3"
         },
         "HEDGE": {
-            "HEDGE": "0x2c3428cd8f7f1742c7faf5f50fa8d0e3972656a4bc3f5df38376213a3f170c82"
+            "HEDGE": "0x8f213fbc3d65e7f0fce020d7b66310b4aa1e87acdc4590efc826d1b8cf851590"
         }
     },
     "OBJECT": {
