@@ -20,7 +20,7 @@
         },
         "HEDGE": {
             "HEDGE": "0x7a4abeffb2d5a4b5238569198ef68554ce0a015223a512668bb45afe8389e9aa",
-            "HEDGE_PERP_DOV": "",
+            "HEDGE_PERP_DOV": "0xdcb921ce8f07b5338aafa07f4c4c0d63577dcd4efc8c44f3b8f8e37d7d7497d4",
             "HEDGE_MOMENTUM": ""
         }
     },
@@ -43,7 +43,7 @@
         },
         "HEDGE": {
             "HEDGE": "0x7a4abeffb2d5a4b5238569198ef68554ce0a015223a512668bb45afe8389e9aa",
-            "HEDGE_PERP_DOV": "",
+            "HEDGE_PERP_DOV": "0xdcb921ce8f07b5338aafa07f4c4c0d63577dcd4efc8c44f3b8f8e37d7d7497d4",
             "HEDGE_MOMENTUM": ""
         }
     },
@@ -64,7 +64,7 @@
         },
         "HEDGE": {
             "HEDGE": "0x127176c622cfa8da3492d1e6b2dbcd7e1fc7c7ba676c8d86a75eb42b4b6cd279",
-            "HEDGE_PERP_DOV": "",
+            "HEDGE_PERP_DOV": "0x8ace582213be4b64566aad14e0e6d0fd2cdc94d3f3fd76866a7d90c4a7bec5f6",
             "HEDGE_MOMENTUM": ""
         }
     },
