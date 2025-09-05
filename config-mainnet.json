@@ -21,6 +21,11 @@
             "OPTION_AIRDROP": "0x23f43c4c84788a2acba2aba37610704197821b568e2c3f0a87fe024231bcd3d3",
             "FUNDING_VAULT": "0x7dab89563066afa000ee154738aac2cc8e7d3e26cd0b470183db63630ee9f965",
             "VE_TYPUS": ""
+        },
+        "HEDGE": {
+            "HEDGE": "0xe7fa4dae529d137d79ad1160950408451dc4c28e76610a999d463a4ef64c5f55",
+            "HEDGE_PERP_DOV": "",
+            "HEDGE_MOMENTUM": ""
         }
     },
     "PACKAGE": {
@@ -43,6 +48,11 @@
             "OPTION_AIRDROP": "0x5421d2c52abff3e21146d5e6049d80d26e0428e2ac7a0eb42b234804fd9fcc9e",
             "FUNDING_VAULT": "0x8508fa6d4c0687fbf9e45ad6eefe70c552100a3c5874acf9e0a4b64c99e58d62",
             "VE_TYPUS": ""
+        },
+        "HEDGE": {
+            "HEDGE": "0xe7fa4dae529d137d79ad1160950408451dc4c28e76610a999d463a4ef64c5f55",
+            "HEDGE_PERP_DOV": "",
+            "HEDGE_MOMENTUM": ""
         }
     },
     "VERSION": {
@@ -59,6 +69,11 @@
             "OPTION_AIRDROP": "0xa4f360b9c3cb5e4fb7e5f56b55af3e15e9bf7e3fd9dc9fcdda8d747d21c18395",
             "FUNDING_VAULT": "0xe8f47da94a8337800c0183d7e4d04230f6d09300dd2e66c2185f02892928ddc8",
             "VE_TYPUS": ""
+        },
+        "HEDGE": {
+            "HEDGE": "0x1f46d4ec3d413e761d5c4da937191ede0db409bf8beb8b04c44be901899becaf",
+            "HEDGE_PERP_DOV": "",
+            "HEDGE_MOMENTUM": ""
         }
     },
     "REGISTRY": {
@@ -97,6 +112,9 @@
             "IMPROVEMENT_PROPOSAL": "",
             "FUNDING_VAULT": "0x0a9e179485aa7573b186f35e403d5aeaa71516f6b3551608473ea1e3d00f460f",
             "VE_TYPUS": ""
+        },
+        "HEDGE": {
+            "HEDGE": "0x515bb299ca2f0c8b753411f6e52322c03516915f522096890a314adac6c39a0a"
         }
     },
     "OBJECT": {
