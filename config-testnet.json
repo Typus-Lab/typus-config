@@ -25,7 +25,7 @@
         }
     },
     "PACKAGE": {
-        "DOV_SINGLE": "0xe09f32e51953ed88f380d8b068f8cfba9a4ebbb8f56509c09a2c850048450f73",
+        "DOV_SINGLE": "0xd822557885ae1a144b52a6116ed20839b76a9cf88a2fcd4b4410a94e7799d38c",
         "DICE": "0x112321a74fb0903aff5c654603c19060552a704b5fb13a6cefa84e1147e66db8",
         "FRAMEWORK": "0x9f72e5a092460be143cd92dc0b8dd987187f787aa148d290a5afa703f85666e0",
         "TOKEN": "0x7755ff79f0f27256c73e6c197e25b407ef6d4b9bd6e1af8cdd50fef28f84712c",
@@ -74,7 +74,7 @@
             "TAILS_EXP": "0x37e0c8c80a5099d5dfe1b0aeae62e3f01916be73935090efb9c95279b7bb1ce7"
         },
         "DOV": {
-            "AUTO_BID": "0x50b01081469d032e04bfcbd057614b1359376920f55c7bebd076e0e2af07a57f",
+            "AUTO_BID": "0xd5a86a3a86c988de572acce88635614d1c1d914dc1926d4be7011715a703b7fa",
             "DOV_SINGLE": "0x0285cbf4aa8585be6c978235d11d06fa35773266ede040d38d34e1d79b049460"
         },
         "PERP": {
