@@ -37,7 +37,7 @@
         "ORACLE": "0x88f64d0f59a37c85fc8f2045e968d936ff74ccc3362a03738e65ceea2b3f115d",
         "TYPUS": "0x0624b66825d66821a57a49491fe1b31bc4f522459051a587aeb43828075f438a",
         "PERP": {
-            "PERP": "0xcb1c8159eb40b02877c0ceed599cf019cc8e61e8ec19c4d64db15e20ff630f05",
+            "PERP": "0x1b1fac7daa9e9e52f9db16d3f1cc7308362ec712f90f6e274ef99c0312790591",
             "STAKE_POOL": "0x6cf6c6cc05316e238a338ba82c018d38a1af7e6da26b85fffa433df98e8f1bdb"
         },
         "SAFU": "0x4493552bfcde20ae42bdc16b215e4060974d439460d10c1fe19ed4617231871c",
@@ -58,8 +58,8 @@
     "VERSION": {
         "TYPUS": "0xd2882b992e986250b3304b59530700bc3850939f9a77e9e9dfa9cf1656f84b3d",
         "PERP": {
-            "PERP": "",
-            "STAKE_POOL": ""
+            "PERP": "0x6ed8676315014e829c89f56d95a88e35167ade69911f853aed8b92c25746ecbc",
+            "STAKE_POOL": "0x57ddf480a4649da5f92b4e607cf1fac75bc11d8b582816509989d66f8bc7e329"
         },
         "SAFU": "0x4e72e7bd5343abefc9a7706e1db7e921d4c5f6eeb35b4a7cf63e23cf19e6b473",
         "LAUNCH": {
@@ -86,11 +86,10 @@
             "DOV_SINGLE": "0x3d70b09359e3ca8301ae0abeda4f2fdf72ce313ba58c919ce568e5f535fd2ea8"
         },
         "PERP": {
-            "LIQUIDITY_POOL": "",
-            "LP_POOL": "",
-            "MARKET": "",
-            "STAKE_POOL": "",
-            "TLP": ""
+            "LIQUIDITY_POOL": "0x422d57052da4465c5cbed8270e815dd9bc943cba827865db44fa067c525de9d9",
+            "LP_POOL": "0xb4b5e5fff9c6036f5ba22434467df1d23c2a77709807c43c7c9200816edb7006",
+            "MARKET": "0x09a1fb68e7b07ac48d8f370cec4b5dabc80eb9a3a548ba4d06fa8e5ce1cf03ad",
+            "STAKE_POOL": "0x60c771d32a7b7f0f5f58d7dc2e6d83f76a6512f58d79bded2ee458a1d79b786c"
         },
         "TOKEN": {
             "MFUD": "0xb8d7e7ab783e56700c0212bd9f0938bba9dd3e7241c149e6c52b21334ec45ece",
@@ -122,7 +121,7 @@
         "TAILS_IDS": "0x3a6a403eb7c123b6f4d25081078b6f07c0ee5987d3ac8ab3e6bcf707c1b0e778",
         "TGLD_COIN_METADATA": "0x3a070c729606334a2be7c51ab28da9a1101b0de01452dd62c10cda0f7a5795d2",
         "TGLD_TOKEN_POLICY": "0xd9461bd329f1df24be9698131b6e2c2b9eaac7c9cf6d76689112f2e57be12009",
-        "TLP_TREASURY_CAP": "",
+        "TLP_TREASURY_CAP": "0xf836ae7b9d53bddb9be877b4fbc3ebd93b01327ca76b437d8618940d5081d222",
         "depositor_program": "0x9b145a4d3f5ddb4594201c7df97ea9e02ef2fd77dfff53fc9a45dfde7cfb3543",
         "bidding_leaderboard": "0x8a40d11311beee02be5ade3fc7077aefba80e4b92a02823688596cf4d0d10895",
         "LAUNCH_AUCTION": "0xd2487400b3b280a6902f74110d27fc6b00fe622b22acc199af28dc0ff43968cf",
