@@ -10,8 +10,8 @@
         "ORACLE": "0x855eb2d260ee42b898266e6df90bfd3c4ed821ccb253a352c159c223244a4b8a",
         "TYPUS": "0x4b0f4ee1a40ce37ec81c987cc4e76a665419e74b863319492fc7d26f708b835a",
         "PERP": {
-            "PERP": "0xec30955b1e100617a02fecec432d2c845f17b2f3d68827f390563faba112513b",
-            "STAKE_POOL": "0x2c5f2cbb705b18ccd8060730923ee9ecb55ba32f4475508576564f7295f5c627"
+            "PERP": "0x9003219180252ae6b81d2893b41d430488669027219537236675c0c2924c94d9",
+            "STAKE_POOL": "0xd280f3a072bca4b7b5b450f40c82a30b3935cd1d12d927eb9d1f790520a83d3b"
         },
         "SAFU": "0xa7bedeaa28ff3defa50d012812618178727f530bc5a70af5d03fc6424a984cc7",
         "LAUNCH": {
@@ -37,8 +37,8 @@
         "ORACLE": "0xfc9b05223195de2f134c84c2299c5ff3f2b51725b8ba821f46975da1264ace73",
         "TYPUS": "0x0624b66825d66821a57a49491fe1b31bc4f522459051a587aeb43828075f438a",
         "PERP": {
-            "PERP": "0x46acca74c6bbba9d0f286e9741444485808f2be493a8baeee1bf7a6ea067c670",
-            "STAKE_POOL": "0x39addbf74f24fc4dcef507a229be8ba6dcbc7ffce34bc1c0b4225ba4cd1677a7"
+            "PERP": "0x9003219180252ae6b81d2893b41d430488669027219537236675c0c2924c94d9",
+            "STAKE_POOL": "0xd280f3a072bca4b7b5b450f40c82a30b3935cd1d12d927eb9d1f790520a83d3b"
         },
         "SAFU": "0x4493552bfcde20ae42bdc16b215e4060974d439460d10c1fe19ed4617231871c",
         "LAUNCH": {
@@ -58,8 +58,8 @@
     "VERSION": {
         "TYPUS": "0xd2882b992e986250b3304b59530700bc3850939f9a77e9e9dfa9cf1656f84b3d",
         "PERP": {
-            "PERP": "0x70abe0418b654d6bae8f860aeebb8912c05534ededf67289a61cd48de679b450",
-            "STAKE_POOL": "0x2f33ef6920dd63ab2089aa28f91c564cf15c008e507ceb915c286f3fc28e06a8"
+            "PERP": "0x7c30204bd3f4dc37918281907308e0d7d09a75a6826473aec0caa1712ee149e5",
+            "STAKE_POOL": "0x64d09fec0002837abc4bb283410034c991710234c4d5b9013eabe38b54cad561"
         },
         "SAFU": "0x4e72e7bd5343abefc9a7706e1db7e921d4c5f6eeb35b4a7cf63e23cf19e6b473",
         "LAUNCH": {
@@ -86,10 +86,10 @@
             "DOV_SINGLE": "0x3d70b09359e3ca8301ae0abeda4f2fdf72ce313ba58c919ce568e5f535fd2ea8"
         },
         "PERP": {
-            "LIQUIDITY_POOL": "0x32db917d2ed873a5bd8664efb220bfc7af4175638e30c8fc2b69b80888aab5d2",
-            "LP_POOL": "0x9e9855b4ac00e407a0719a6542b9be76d886b499bf1d763a79f56d139830fd3a",
-            "MARKET": "0xdcc27865c3668dcad62fecee867e219a2d3a8f7920bcfe2ffe5f0949442adf37",
-            "STAKE_POOL": "0xf26906bd797b32a55c4ec479102c1b74eea5b3795d4a9af0bbb29c171c110826"
+            "LIQUIDITY_POOL": "0x9090a55fea75d0b135dfa53e6bbe234c0b0e9d0e0b21c615f32f0048bc35aca4",
+            "LP_POOL": "0x46ef530d3ad13037ac54b77be324e5ab063124af8a119e86f1f59be8a16a22a2",
+            "MARKET": "0x327c8a176055400e9aacde8553a897898b5da969d6dcdb55eee268bb501a2c3a",
+            "STAKE_POOL": "0xdbd23ed1bfe214a61bce1ba711b86e62048913f2069e845c9ff69119628f41a3"
         },
         "TOKEN": {
             "MFUD": "0xb8d7e7ab783e56700c0212bd9f0938bba9dd3e7241c149e6c52b21334ec45ece",
@@ -121,7 +121,7 @@
         "TAILS_IDS": "0x3a6a403eb7c123b6f4d25081078b6f07c0ee5987d3ac8ab3e6bcf707c1b0e778",
         "TGLD_COIN_METADATA": "0x3a070c729606334a2be7c51ab28da9a1101b0de01452dd62c10cda0f7a5795d2",
         "TGLD_TOKEN_POLICY": "0xd9461bd329f1df24be9698131b6e2c2b9eaac7c9cf6d76689112f2e57be12009",
-        "TLP_TREASURY_CAP": "0x791498ed6eea0680052f262b388e0bea46e1dfdb976f2ca7ab9183142f5d2045",
+        "TLP_TREASURY_CAP": "0x99071a9fb7e40546d3279dffac2ff15a278ab90229c3fe06610e1540dcafa7af",
         "depositor_program": "0x9b145a4d3f5ddb4594201c7df97ea9e02ef2fd77dfff53fc9a45dfde7cfb3543",
         "bidding_leaderboard": "0x8a40d11311beee02be5ade3fc7077aefba80e4b92a02823688596cf4d0d10895",
         "LAUNCH_AUCTION": "0xd2487400b3b280a6902f74110d27fc6b00fe622b22acc199af28dc0ff43968cf",
@@ -169,8 +169,8 @@
         "TEXP": "0x37816d28c34cc0df82655ca97b3f066112a5f3c202cbb4aaa76c8af54e779750::tails_exp::TAILS_EXP",
         "TGLD": "0x4b0f4ee1a40ce37ec81c987cc4e76a665419e74b863319492fc7d26f708b835a::tgld::TGLD",
         "TLP": "",
-        "MTLP": "0xf948b890532ed2d0607e98f811789985d2b7e370bf608995b6f6bf8bf359a129::mtlp::MTLP",
-        "ITLP_TYPUS": "0x2b5b1cde4dfbc73cabe229006990780f622e5009e40113ea6a152f1936d2e88f::itlp_typus::ITLP_TYPUS",
+        "MTLP": "0x07be4837e4c0011a14b2821f62493bf26f3a9c1ffbede99e404bd27df6f25218::mtlp::MTLP",
+        "ITLP_TYPUS": "0x8f608c247f09e7fb7ba222fb2843c6942045dab103d79a123c7fdcadfccddd4c::itlp_typus::ITLP_TYPUS",
         "TURBOS": "0x5d1f47ea69bb0de31c313d7acf89b890dbb8991ea8e03c6c355171f84bb1ba4a::turbos::TURBOS",
         "USD": "",
         "USDC": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
