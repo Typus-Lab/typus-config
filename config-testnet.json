@@ -29,12 +29,12 @@
         }
     },
     "PACKAGE": {
-        "DOV_SINGLE": "0xd822557885ae1a144b52a6116ed20839b76a9cf88a2fcd4b4410a94e7799d38c",
+        "DOV_SINGLE": "0xf0765fccec5153dabe79a901cea577190c0ff07a5c84cf23d614730b3cce1d6b",
         "DICE": "0x112321a74fb0903aff5c654603c19060552a704b5fb13a6cefa84e1147e66db8",
-        "FRAMEWORK": "0x9f72e5a092460be143cd92dc0b8dd987187f787aa148d290a5afa703f85666e0",
+        "FRAMEWORK": "0x705ea514d3a4ca04af151cba3ac8e861717411abca9b347ae4efb69942703dcc",
         "TOKEN": "0x7755ff79f0f27256c73e6c197e25b407ef6d4b9bd6e1af8cdd50fef28f84712c",
         "NFT": "0xd4edd48935700630738862ff67c30962461ad341a13bed78c12beb15297989b0",
-        "ORACLE": "0x509e247b1df7a000be88688dfc596c2d35bec591d0ca9648f100faa57508639d",
+        "ORACLE": "0xfa65b0da732c85c34bda6504e367d6a800f1816798573268dd0931653bb8e375",
         "TYPUS": "0x95c0df73075033238c62102d4739349b8607264b9835bed9de31f5feeaf9131a",
         "SAFU": "",
         "LAUNCH": {
@@ -51,7 +51,7 @@
             "HEDGE_MOMENTUM": ""
         },
         "PERP": {
-            "PERP": "0xe09a839901ac784409939444e39e50e531972ced4ac9b65687f3c5c8a8bfe955",
+            "PERP": "0x8a9e4214800ad6bd806a0131b1dd42327b5e53e165684031558a65eeaade40c1",
             "STAKE_POOL": "0x11ca35c03a2f3ba157a8f605613bcb70eb22da5fcb9dbb00966db745ed6427e6"
         }
     },
